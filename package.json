@@ -1,0 +1,30 @@
+{
+  "name": "array-to-string-test-task",
+  "version": "1.0.0",
+  "description": "Test task for TrendTech company",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitrijlin/ArrayToStringTestTask.git"
+  },
+  "author": "Dmitry Lin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "convert",
+    "arrays",
+    "strings"
+  ],
+  "bugs": {
+    "url": "https://github.com/Dmitrijlin/ArrayToStringTestTask/issues"
+  },
+  "homepage": "https://github.com/Dmitrijlin/ArrayToStringTestTask#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
